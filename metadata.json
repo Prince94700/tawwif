@@ -1,0 +1,6 @@
+{
+  "name": "Vital Touch",
+  "description": "A mindful health, nutrition, and hydration tracker utilizing a modern tactile aesthetic and AI-powered food optics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
